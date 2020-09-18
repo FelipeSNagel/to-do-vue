@@ -1,24 +1,33 @@
-# to-do-vue
+# ToDo Vue
+Aplicação lista de tarefas, onde você pode: 
+- Cadastrar uma tarefa.
+- Marcar uma tarefa como concluída.
+- Desmarcar uma tarefa concluída.
+- Remover uma tarefa.
 
-## Project setup
+A aplicação está funcionando com estado local, se etualizar perde os dados.
+O que foi usado do VUE? Diretivas, componentização, estado local, estilo com escopo, metódos.
+
+<p align="center">
+<img src="https://github.com/FSNagel/to-do-vue/blob/master/image.gif?raw=true" />
+</p>
+
+## Início do projeto
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Início para desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produção, gerando pasta dist
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Formatar arquivos
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
