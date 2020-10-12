@@ -5,8 +5,13 @@ Aplicação lista de tarefas, onde você pode:
 - Desmarcar uma tarefa concluída.
 - Remover uma tarefa.
 
-A aplicação está funcionando com estado local, se etualizar perde os dados.
-O que foi usado do VUE? Diretivas, componentização, estado local, estilo com escopo, metódos.
+A aplicação está funcionando com estado local, se atualizar perde os dados.
+O que foi usado do VUE? 
+- Diretivas
+- Componentização
+- Estado local
+- Estilo com escopo
+- Metódos.
 
 <p align="center">
 <img src="https://github.com/FSNagel/to-do-vue/blob/master/image.gif?raw=true" />
